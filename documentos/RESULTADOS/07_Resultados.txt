@@ -1,0 +1,29 @@
+Execucao: 2022-04-10 20:34:58.607620
+num_folds: 10
+scoring: accuracy
+Melhor CART: 0.450268 com {'criterion': 'gini', 'max_depth': 5}
+Melhor SVM: 0.466391 com {'C': 0.5, 'kernel': 'poly'}
+Melhor KNN: 0.464180 com {'metric': 'manhattan', 'n_neighbors': 30, 'weights': 'uniform'}
+Melhor LR: 0.472993 com {'C': 0.0001, 'penalty': 'l2'}
+Melhor NB: 0.460466 com {'var_smoothing': 1.0}
+----------------------------------------------------
+
+Execucao: 2022-04-15 19:18:41.218202
+Treinando modelos com dados normais
+ScaledLR: 0.457675 (0.043506)
+ScaledKNN: 0.464169 (0.036651)
+ScaledCART: 0.450268 (0.035626)
+ScaledNB: 0.461196 (0.050318)
+ScaledSVM: 0.467121 (0.026098)
+----------------------------------------------------
+
+Execucao: 2022-04-15 20:09:30.148882
+num_folds: 10
+scoring: accuracy
+Melhor LR: 0.472993 com {'C': 0.0001, 'penalty': 'l2'}
+Melhor KNN: 0.464180 com {'metric': 'manhattan', 'n_neighbors': 30, 'weights': 'uniform'}
+Melhor CART: 0.450268 com {'criterion': 'gini', 'max_depth': 5}
+Melhor NB: 0.460466 com {'var_smoothing': 1.0}
+Melhor SVM: 0.466391 com {'C': 0.5, 'kernel': 'poly'}
+----------------------------------------------------
+

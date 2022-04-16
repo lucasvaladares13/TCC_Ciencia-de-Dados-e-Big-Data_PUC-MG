@@ -1,0 +1,80 @@
+Execucao: 2022-04-10 20:18:33.648341
+Treinando modelos com dados normais
+LR: 0.463445 (0.040453)
+KNN: 0.430609 (0.036049)
+CART: 0.366922 (0.052473)
+NB: 0.431231 (0.053329)
+SVM: 0.457675 (0.043506)
+Treinando modelos com dados normalizados
+ScaledLR: 0.463445 (0.041365)
+ScaledKNN: 0.421071 (0.037618)
+ScaledCART: 0.379455 (0.048410)
+ScaledNB: 0.431231 (0.053329)
+ScaledSVM: 0.452464 (0.034329)
+----------------------------------------------------
+
+Execucao: 2022-04-10 20:20:22.167461
+Treinando modelos com dados normais
+LR: 0.463445 (0.040453)
+KNN: 0.430609 (0.036049)
+CART: 0.366922 (0.052473)
+NB: 0.431231 (0.053329)
+SVM: 0.457675 (0.043506)
+Treinando modelos com dados normalizados
+ScaledLR: 0.463445 (0.041365)
+ScaledKNN: 0.421071 (0.037618)
+ScaledCART: 0.379455 (0.048410)
+ScaledNB: 0.431231 (0.053329)
+ScaledSVM: 0.452464 (0.034329)
+----------------------------------------------------
+
+Execucao: 2022-04-15 19:28:16.937477
+Treinando modelos com dados normais
+LR: 0.463445 (0.040453)
+KNN: 0.430609 (0.036049)
+CART: 0.366922 (0.052473)
+NB: 0.431231 (0.053329)
+SVM: 0.457675 (0.043506)
+Treinando modelos com dados normalizados
+ScaledLR: 0.463445 (0.041365)
+ScaledKNN: 0.421071 (0.037618)
+ScaledCART: 0.379455 (0.048410)
+ScaledNB: 0.431231 (0.053329)
+ScaledSVM: 0.452464 (0.034329)
+----------------------------------------------------
+
+Execucao: 2022-04-15 19:51:06.961721
+num_folds: 10
+scoring: accuracy
+Melhor CART: 0.450268 com {'criterion': 'gini', 'max_depth': 5}
+Melhor SVM: 0.466391 com {'C': 0.5, 'kernel': 'poly'}
+Melhor KNN: 0.464180 com {'metric': 'manhattan', 'n_neighbors': 30, 'weights': 'uniform'}
+Melhor LR: 0.472993 com {'C': 0.0001, 'penalty': 'l2'}
+Melhor NB: 0.460466 com {'var_smoothing': 1.0}
+----------------------------------------------------
+
+Execucao: 2022-04-15 19:53:40.364008
+num_folds: 10
+scoring: accuracy
+Melhor LR: 0.472993 com {'C': 0.0001, 'penalty': 'l2'}
+Melhor KNN: 0.464180 com {'metric': 'manhattan', 'n_neighbors': 30, 'weights': 'uniform'}
+Melhor CART: 0.450268 com {'criterion': 'gini', 'max_depth': 5}
+Melhor NB: 0.460466 com {'var_smoothing': 1.0}
+Melhor SVM: 0.466391 com {'C': 0.5, 'kernel': 'poly'}
+----------------------------------------------------
+
+Execucao: 2022-04-15 20:09:15.721844
+Treinando modelos com dados normais
+LR: 0.463445 (0.040453)
+KNN: 0.430609 (0.036049)
+CART: 0.366922 (0.052473)
+NB: 0.431231 (0.053329)
+SVM: 0.457675 (0.043506)
+Treinando modelos com dados normalizados
+ScaledLR: 0.463445 (0.041365)
+ScaledKNN: 0.421071 (0.037618)
+ScaledCART: 0.379455 (0.048410)
+ScaledNB: 0.431231 (0.053329)
+ScaledSVM: 0.452464 (0.034329)
+----------------------------------------------------
+
