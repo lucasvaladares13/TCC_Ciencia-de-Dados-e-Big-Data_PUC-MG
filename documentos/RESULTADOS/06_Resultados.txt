@@ -43,26 +43,6 @@ ScaledNB: 0.431231 (0.053329)
 ScaledSVM: 0.452464 (0.034329)
 ----------------------------------------------------
 
-Execucao: 2022-04-15 19:51:06.961721
-num_folds: 10
-scoring: accuracy
-Melhor CART: 0.450268 com {'criterion': 'gini', 'max_depth': 5}
-Melhor SVM: 0.466391 com {'C': 0.5, 'kernel': 'poly'}
-Melhor KNN: 0.464180 com {'metric': 'manhattan', 'n_neighbors': 30, 'weights': 'uniform'}
-Melhor LR: 0.472993 com {'C': 0.0001, 'penalty': 'l2'}
-Melhor NB: 0.460466 com {'var_smoothing': 1.0}
-----------------------------------------------------
-
-Execucao: 2022-04-15 19:53:40.364008
-num_folds: 10
-scoring: accuracy
-Melhor LR: 0.472993 com {'C': 0.0001, 'penalty': 'l2'}
-Melhor KNN: 0.464180 com {'metric': 'manhattan', 'n_neighbors': 30, 'weights': 'uniform'}
-Melhor CART: 0.450268 com {'criterion': 'gini', 'max_depth': 5}
-Melhor NB: 0.460466 com {'var_smoothing': 1.0}
-Melhor SVM: 0.466391 com {'C': 0.5, 'kernel': 'poly'}
-----------------------------------------------------
-
 Execucao: 2022-04-15 20:09:15.721844
 Treinando modelos com dados normais
 LR: 0.463445 (0.040453)
