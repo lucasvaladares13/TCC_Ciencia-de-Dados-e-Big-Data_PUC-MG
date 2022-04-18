@@ -47,15 +47,9 @@ df = df[[
     'v_chutesaogol_mdmv_10',
     'v_score_mdmv_10',
     'v_MdPosse',
-    'v_QtdGols',
-    'v_QtdAssistencias',
     'v_MdGolsPorPartida',
-    'v_MdAssistenciasPorPartida',
     'm_MdPosse',
-    'm_QtdGols',
-    'm_QtdAssistencias',
-    'm_MdGolsPorPartida',
-    'm_MdAssistenciasPorPartida'
+    'm_MdGolsPorPartida'
 ]]
 
 array = df.values
